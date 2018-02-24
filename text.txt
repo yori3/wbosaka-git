@@ -1,2 +1,3 @@
 change!
 change on GitHub
+別ディレクトリで編集
